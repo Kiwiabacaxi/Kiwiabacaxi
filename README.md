@@ -2,7 +2,7 @@
 
 ## 🚀 Embarking on the Code Odyssey
 
-Developer with 2 years of experience in JavaScript, TypeScript, GoLang, and Python, focusing on AI and CV. Currently pursuing a Computer Engineering degree with a strong interest in backend development. Engaged in Python projects related to AI and CV as part of my ongoing research work. Trying to juggle C/C++ assignments and Java lectures at university, and still seeking exciting opportunities to collaborate and learn.
+Developer with 2.5 years of experience in JavaScript, TypeScript, GoLang, and Python, focusing on AI and CV. Currently pursuing a Computer Engineering degree with a strong interest in backend development. Engaged in Python projects related to AI and CV as part of my ongoing research work. Trying to juggle C/C++ assignments and Java lectures at university, and still seeking exciting opportunities to collaborate and learn.
 
 - 🌍 I'm based in Minas Gerais, Brazil
 - 🧠 I'm learning diving deep into Node.js (advanced topics), trying to master Rust (though it's giving me a run for my money), conquering Go, and delving into Python with a strong emphasis on AI/CV. 😅🚀
